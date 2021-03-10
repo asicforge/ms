@@ -53,4 +53,6 @@ See Melrose Site S9 Returned Status below for detail
 | mr01-s9-u1009 | fan 5                        | fan 5              | FAN     | FAN - suggest onsite Fan replacement                    |
 | mr01-s9-u1010 | chain 6 - 63, 7 - 63, 8 - 0  | fan 5,6 ASIC 6,7,8 | REBUILD | REBUILD - SALVAGE suggest onsite ASIC Exchange and Salvage |
 
+[ASIC Forge Process Detail](./ProcessSteps.md)
+
 updated [...](https://docs.google.com/spreadsheets/d/1_iXF0iPXyzejxnkqlGtTSFHLRK9yXqTdz1O6_KCGxH0/edit#gid=108511430) 2021.03.09 cat
