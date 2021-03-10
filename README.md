@@ -51,6 +51,6 @@ See Melrose Site S9 Returned Status below for detail
 | mr01-s9-u1007 | chain 6 - 0, 7 - 0, 8 - 63   | ASIC 6,7, 8        | REBUILD | REBUILD - SALVAGE working boards in unit u1006 bad in u1007 |
 | mr01-s9-u1008 | 2 bad fan 5, 6               | fan 5,6            | FAN     | FAN - suggest onsite Fan replacement                    |
 | mr01-s9-u1009 | fan 5                        | fan 5              | FAN     | FAN - suggest onsite Fan replacement                    |
-| mr01-s9-u1010 | chain 6 - 63, 7 - 63, 8 - 0  | fan 5,6 ASIC 6,7,8 | REBUILD | suggest onsite ASIC Exchange and Salvage                |
+| mr01-s9-u1010 | chain 6 - 63, 7 - 63, 8 - 0  | fan 5,6 ASIC 6,7,8 | REBUILD | REBUILD - SALVAGE suggest onsite ASIC Exchange and Salvage |
 
 updated [...](https://docs.google.com/spreadsheets/d/1_iXF0iPXyzejxnkqlGtTSFHLRK9yXqTdz1O6_KCGxH0/edit#gid=108511430) 2021.03.09 cat
