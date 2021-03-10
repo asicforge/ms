@@ -49,3 +49,5 @@
 | mr01-s9-u1008 | 2 bad fan 5, 6               | SALVAGE      | fan 5,6            | onsite repair | suggest repair                                          |
 | mr01-s9-u1009 | fan 5                        | SALVAGE      | fan 5              | onsite repair | suggest repair                                          |
 | mr01-s9-u1010 | chain 6 - 63, 7 - 63, 8 - 0  | SALVAGE      | fan 5,6 ASIC 6,7,8 | salvage       | suggest salvage                                         |
+
+updated [...](https://docs.google.com/spreadsheets/d/1_iXF0iPXyzejxnkqlGtTSFHLRK9yXqTdz1O6_KCGxH0/edit#gid=108511430) 2021.03.09 cat
