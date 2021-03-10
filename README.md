@@ -1,5 +1,8 @@
 # ms
 
+## Return Summary
+See Melrose Site S9 Returned Status below for detail
+
 - 10 Units Recieved  (In) 
 -  2 Units Refresh   (RF) 
 -  6 Units Rebuild   (RB) (2 will require new fans can be done on-site)
@@ -37,17 +40,17 @@
 
 ## Melrose Site S9 Returned Status
 
-| Inbound Tag   | Triage Detail                | Triage State | Required Service   | Return  | Detail                                                  |
-|---------------|------------------------------|--------------|--------------------|---------|---------------------------------------------------------|
-| mr01-s9-u1001 | fan 5                        | SALVAGE      | fan 5              | FAN     | FAN - suggest onsite Fan replacement                    |
-| mr01-s9-u1002 | chain 6 - 62, 7 - 10, 8 - 63 | SALVAGE      | ASIC 6,7           | AOK     | AOK - REBUILD - SALVAGE boards 6,7 from u1010           |
-| mr01-s9-u1003 | fan 6                        | SALVAGE      | fan 6              | FAN     | FAN - suggest onsite Fan replacement                    |
-| mr01-s9-u1004 | AOK after flash              | REFRESH      | BIOS Flash         | AOK     | AOK - REFRESH                                           |
-| mr01-s9-u1005 | AOK after flash              | REFRESH      | BIOS Flash         | AOK     | AOK - REFRESH                                           |
-| mr01-s9-u1006 | chain 6 - 0, 7 - 63, 8 - 63  | SALVAGE      | ASIC 6             | AOK     | AOK - REBUILD - SALVAGE boards 6, 8 from machine u1007  |
-| mr01-s9-u1007 | chain 6 - 0, 7 - 0, 8 - 63   | SALVAGE      | ASIC 6,7, 8        | REBUILD | REBUILD - SALVAGE working boards in unit u1006 bad in u1007 |
-| mr01-s9-u1008 | 2 bad fan 5, 6               | SALVAGE      | fan 5,6            | FAN     | FAN - suggest onsite Fan replacement                    |
-| mr01-s9-u1009 | fan 5                        | SALVAGE      | fan 5              | FAN     | FAN - suggest onsite Fan replacement                    |
-| mr01-s9-u1010 | chain 6 - 63, 7 - 63, 8 - 0  | SALVAGE      | fan 5,6 ASIC 6,7,8 | REBUILD | suggest onsite ASIC Exchange and Salvage                |
+| Inbound Tag   | Triage Detail                | Required Service   | Return  | Detail                                                  |
+|---------------|------------------------------|--------------------|---------|---------------------------------------------------------|
+| mr01-s9-u1001 | fan 5                        | fan 5              | FAN     | FAN - suggest onsite Fan replacement                    |
+| mr01-s9-u1002 | chain 6 - 62, 7 - 10, 8 - 63 | ASIC 6,7           | AOK     | AOK - REBUILD - SALVAGE boards 6,7 from u1010           |
+| mr01-s9-u1003 | fan 6                        | fan 6              | FAN     | FAN - suggest onsite Fan replacement                    |
+| mr01-s9-u1004 | AOK after flash              | BIOS Flash         | AOK     | AOK - REFRESH                                           |
+| mr01-s9-u1005 | AOK after flash              | BIOS Flash         | AOK     | AOK - REFRESH                                           |
+| mr01-s9-u1006 | chain 6 - 0, 7 - 63, 8 - 63  | ASIC 6             | AOK     | AOK - REBUILD - SALVAGE boards 6, 8 from machine u1007  |
+| mr01-s9-u1007 | chain 6 - 0, 7 - 0, 8 - 63   | ASIC 6,7, 8        | REBUILD | REBUILD - SALVAGE working boards in unit u1006 bad in u1007 |
+| mr01-s9-u1008 | 2 bad fan 5, 6               | fan 5,6            | FAN     | FAN - suggest onsite Fan replacement                    |
+| mr01-s9-u1009 | fan 5                        | fan 5              | FAN     | FAN - suggest onsite Fan replacement                    |
+| mr01-s9-u1010 | chain 6 - 63, 7 - 63, 8 - 0  | fan 5,6 ASIC 6,7,8 | REBUILD | suggest onsite ASIC Exchange and Salvage                |
 
 updated [...](https://docs.google.com/spreadsheets/d/1_iXF0iPXyzejxnkqlGtTSFHLRK9yXqTdz1O6_KCGxH0/edit#gid=108511430) 2021.03.09 cat
